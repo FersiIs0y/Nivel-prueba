@@ -2,7 +2,8 @@
 
 ## Equipo 2
 
-#integrantes
+##integrantes
+
 -Paola Hernández Méndez 
 -María Teresa Arias López
 -Giovanna Paola Rodriguez Solís 
