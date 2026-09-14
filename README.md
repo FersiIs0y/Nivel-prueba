@@ -1,3 +1,10 @@
-# MyProject2
+# Nivel de Unreal, parkour
 
-Developed with Unreal Engine 5
+## Equipo 2
+
+#integrantes
+-Paola Hernández Méndez 
+-María Teresa Arias López
+-Giovanna Paola Rodriguez Solís 
+-Erika Valentin Herrera
+-Fernanda Luis Toribio 
